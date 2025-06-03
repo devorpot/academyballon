@@ -124,12 +124,29 @@
 	},
 	"expanded_folders":
 	[
-		"/media/daniel/SERVIDOR1/httpd/academyballon"
+		"/media/daniel/SERVIDOR1/httpd/academyballon",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/app",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/app/Http",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/app/Http/Middleware",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/js",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/js/Pages",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/js/Pages/Auth",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/views",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/routes",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/storage"
 	],
 	"file_history":
 	[
-		"/home/daniel/Escritorio/emails.txt",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/app/Http/Middleware/HandleInertiaRequests.php",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/vite.config.js",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/js/app.js",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/routes/web.php",
 		"/media/daniel/SERVIDOR1/httpd/academyballon/.env",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/js/Pages/Home.vue",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/js/Pages/Welcome.vue",
+		"/media/daniel/SERVIDOR1/httpd/academyballon/resources/views/app.blade.php",
+		"/home/daniel/Escritorio/emails.txt",
 		"/media/daniel/SERVIDOR1/httpd/academyballon/.gitignore",
 		"/media/daniel/SERVIDOR1/httpd/ballonacademy.com/.env",
 		"/home/daniel/Proyectos/themes/standsavila/src/pages/index.astro",
